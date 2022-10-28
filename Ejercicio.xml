@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/D:/Practica5_A180057/Ejercicio.xsl"?>
+<audifonos>
+  <audifono>
+    <marca>Sennheiser Epos</marca>
+    <modelo>H3</modelo>
+    <precio>2200</precio>
+  </audifono>
+  <audifono>
+    <marca>Moondrop</marca>
+    <modelo>Aria</modelo>
+    <precio>1700</precio>
+  </audifono>
+  <audifono>
+    <marca>Final Audio</marca>
+    <modelo>E3000</modelo>
+    <precio>1295</precio>
+  </audifono>
+  <audifono>
+    <marca>HyperX</marca>
+    <modelo>Cloud Alpha</modelo>
+    <precio>1900</precio>
+  </audifono>
+</audifonos>
